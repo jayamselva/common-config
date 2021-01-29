@@ -1,8 +1,7 @@
 my:
-  greetings: Heelo Selvam!
-  fav:
-    cricketers: Sachin, Sourav, Srinath, Dravid, Yuvraj, Dhoni
+    name: Selvakumar from Config
+    homeTown: Kulithalai from Config
+    Job: Software-Engineer from Config
     
-db:
- name: Oracle
- port: 1234      
+server:
+  port: 8084    
