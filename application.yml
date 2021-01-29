@@ -1,0 +1,8 @@
+my:
+  greetings: Heelo Selvam!
+  fav:
+    cricketers: Sachin, Sourav, Srinath, Dravid, Yuvraj, Dhoni
+    
+db:
+ name: Oracle
+ port: 1234      
