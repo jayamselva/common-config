@@ -1,4 +1,3 @@
-student:
-    rollNo: 637878
-    name: Selvakumar    - student-service file
-    department: EEE - WOW - student-service file
+student:   
+    name: Selvakumar - student-service file
+    department: EEE - student-service file
