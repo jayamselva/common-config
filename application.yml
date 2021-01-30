@@ -1,4 +1,4 @@
 student: 
     rollNo: 1001
     name: Selvakumar from application.yml   
-    
+    department: CSC
