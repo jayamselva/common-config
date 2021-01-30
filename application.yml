@@ -1,2 +1,3 @@
-student:
-    rollNo: 630000
+student:    
+    name: Selvakumar from application.yml   
+    
