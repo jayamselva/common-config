@@ -1,3 +1,2 @@
-student:   
-    name: Selvakumar - student-service file
-    department: EEE - student-service file
+student:       
+    department: EEE from student-service.yml
