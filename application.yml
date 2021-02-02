@@ -2,7 +2,3 @@ student:
     rollNo: 1006
     name: Selvakumar from application.yml   
     department: CSC
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8763/eureka/  
