@@ -2,5 +2,3 @@ student:
     rollNo: 1006
     name: Selvakumar
     department: CSC
-
-spring.profiles.active: dev    
