@@ -1,4 +1,4 @@
-student: 
-  rollNo: 678
-  name: VERMARI
-  department: EEE
+employee: 
+  employeeId: 889900
+  employeeName: VERMARI
+  technology: DOT NET
